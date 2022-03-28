@@ -1,12 +1,12 @@
 # Mapping_Earthquakes
 Mod 13
 
-##Overview
+## Overview
 
 For this project there was much time and effort spent learning mapping with leaftlet and mapbox.  d3, geoJSON, and js were utilized for completion.
 There are many branches for this repository, a new branch was added each time a new feature was worked on.
 
-##Notes for submission
+## Notes to accompany submission
 
 At first look, the third map layer for deliverable three is not very distinct when looking at the full map.  See examples below of Streets layer and Outdoors layer. 
 
